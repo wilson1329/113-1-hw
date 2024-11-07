@@ -1,0 +1,6 @@
+﻿  5_28.cpp
+C:\Users\誠\Desktop\113-1-hw\5_28\5_28\5_28.cpp(10,13): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+C:\Users\誠\Desktop\113-1-hw\5_28\5_28\5_28.cpp(10,13): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+C:\Users\誠\Desktop\113-1-hw\5_28\5_28\5_28.cpp(10,13): message : 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+C:\Users\誠\Desktop\113-1-hw\5_28\5_28\5_28.cpp(10,13): message : 此引數可用為緩衝區大小
+  5_28.vcxproj -> C:\Users\誠\Desktop\113-1-hw\5_28\x64\Debug\5_28.exe
