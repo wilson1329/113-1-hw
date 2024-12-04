@@ -1,0 +1,3 @@
+﻿  10_9.cpp
+C:\Users\誠\Desktop\113-1-hw\12.05\10_9\10_9\10_9.cpp(29,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  10_9.vcxproj -> C:\Users\誠\Desktop\113-1-hw\12.05\10_9\x64\Debug\10_9.exe
